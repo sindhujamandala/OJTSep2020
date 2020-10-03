@@ -262,6 +262,10 @@ public class InterviewTcOne {
 	{
 		driver.close();
 	}
-
+	
+	public void verify()
+	{
+		System.out.println("verify method");
+	}
 
 }
